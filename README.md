@@ -29,6 +29,6 @@
   - [Password Manager (GUI)](https://github.com/Toyontewo/GUI-PasswordManager/)
   - ["Pomodoro" StopWatch (GUI)](https://github.com/Toyontewo/pomodoro)
   - [GUI Currency converter (NG -> USD)](https://github.com/Toyontewo/CurrencyConv)
-- <b>API (Using PYTHON</b>
+- <b>API (Using PYTHON)</b>
   - [Overhead Sun Notifier](https://github.com/Toyontewo/OVRsun)
   - [Quizzler App (API Game)](https://github.com/Toyontewo/GUI-PasswordManager/)
